@@ -9,6 +9,7 @@ float sum[100];
 void create_New_Record()
 {
 
+    // hello coders this is my first project
 	int choice;
 	cout<<"Enter the number of students = "<<endl;
 	cin>>choice;
@@ -179,7 +180,7 @@ int main()
 {
 
 	int choice;
-	
+
 	while(true)
 	{
 	cout<<"\nEnter 1 to create new record";
